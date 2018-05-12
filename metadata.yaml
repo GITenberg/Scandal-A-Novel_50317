@@ -1,9 +1,13 @@
 _repo: Scandal-A-Novel_50317
+_version: 0.1.0
 contributor:
   illustrator:
     agent_name: Culter, Richard
     gutenberg_agent_id: '37494'
     url: http://www.gutenberg.org/2009/agents/37494
+covers:
+- cover_type: archival
+  image_path: 50317-rst/images/img-cover.jpg
 creator:
   author:
     agent_name: Hamilton, Cosmo
@@ -12,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1250
     wikipedia: http://en.wikipedia.org/wiki/Cosmo_Hamilton
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50317#Scandal-A-Novel
 gutenberg_issued: '2015-10-26'
 gutenberg_type: Text
 identifiers:
